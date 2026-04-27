@@ -19,5 +19,9 @@ Description: Biweekly flood event data for Sri Lanka including:
 - Flood trend analysis (line chart)  
 - Population exposure distribution (pie chart)  
 - Agricultural impact heatmap
+## Github Repository
+link : https://github.com/AadhilShehan/Flood_Dashboard_Sri-Lanka
+## Published streamlit app
+link : https://flooddashboardsri-lanka-rtnvtrqxub87btpjrmtgae.streamlit.app/
 ## Conclusion
 The dashboard provides meaningful insights into flood impacts in Sri Lanka. It highlights vulnerable regions and supports better decision-making for disaster management and sustainability planning.
